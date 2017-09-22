@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blue_grey"
+    android:orientation="vertical"
+    tools:context="com.example.android.tourguide.MainActivity">
+
+    <TextView
+        android:id="@+id/Sightseeing"
+        style="@style/CategoryStyle"
+        android:background="@color/category_sightseeing"
+        android:text="@string/category_sightseeing" />
+
+    <TextView
+        android:id="@+id/Hotels"
+        style="@style/CategoryStyle"
+        android:background="@color/category_hotels"
+        android:text="@string/category_hotels" />
+
+    <TextView
+        android:id="@+id/Restaurants"
+        style="@style/CategoryStyle"
+        android:background="@color/category_restaurants"
+        android:text="@string/category_restaurants" />
+
+    <TextView
+        android:id="@+id/Camping"
+        style="@style/CategoryStyle"
+        android:background="@color/category_camping"
+        android:text="@string/category_camping" />
+
+
+</LinearLayout>

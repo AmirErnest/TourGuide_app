@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <!-- category sightseeing in the activity_main -->
+    <string name="category_sightseeing"> Sightseeing</string>
+
+    <!-- category hotels in the activity_main -->
+    <string name="category_hotels"> Hotels </string>
+
+    <!-- category hotels in the activity_main -->
+    <string name="category_restaurants"> Restaurants </string>
+
+    <!-- category camping in the activity_main -->
+    <string name="category_camping"> Camping </string>
+
+    <!-- camping places list -->
+    <string name="Wohnmobilstellplatz_Wertach">Wohnmobilstellplatz Wertach</string>
+    <string name="Camping_pitch_Wertach">Camping pitch Wertach</string>
+    <string name="Lech_Camping_GmbH">Lech Camping GmbH</string>
+    <string name="Lech_Camping_gmbH">Lech Camping GmbH</string>
+    <string name="Campingplatz_Bella_Augusta">Campingplatz Bella Augusta</string>
+    <string name="Camping_site_Bella_Augusta">Camping site Bella Augusta</string>
+    <string name="Campingplatz_Ludwigshof_am_See">Campingplatz Ludwigshof am See</string>
+    <string name="Camping_site_Ludwigshof_am_See">Camping site Ludwigshof am See</string>
+
+    <!-- hotels list -->
+    <string name="Hotel_Garni_Am_Rathaus">Hotel Garni Am Rathaus</string>
+    <string name="Übernacht_Hostel">Übernacht Hostel</string>
+    <string name="Hotel_Augusta">Hotel Augusta</string>
+    <string name="Stadthotel_Augsburg">Stadthotel Augsburg</string>
+    <string name="Hotel_Garni_Jakoberhof">Hotel Garni Jakoberhof</string>
+    <string name="InterCityHotel_Augsburg">InterCityHotel Augsburg</string>
+    <string name="Hotel_Riegele">Hotel Riegele</string>
+    <string name="Ibis_Augsburg_Königsplatz">Ibis Augsburg Königsplatz</string>
+    <string name="Dorint_Hotel_Augsburg_an_der_Kongresshalle">Dorint Hotel Augsburg an der Kongresshalle</string>
+
+    <!-- restaurants list -->
+    <string name="Brauhaus_Augsburg">1516 Brauhaus Augsburg</string>
+    <string name="Königinnen">3 Königinnen</string>
+    <string name="Altstadtgasthaus_Bauerntanz">Altstadtgasthaus Bauerntanz</string>
+    <string name="Bayerischer_Wirt">Bayerischer Wirt</string>
+    <string name="Bayerisches_Haus_am_Dom">Bayerisches Haus am Dom</string>
+    <string name="Brauhaus_Thorbräu">Brauhaus Thorbräu</string>
+    <string name="Der_Neue_Hubertushof">Der Neue Hubertushof</string>
+    <string name="Fuchs_Brauereigasthof">Fuchs Brauereigasthof</string>
+    <string name="Goldener_Stern">Goldener Stern</string>
+    <string name="Dreischwabenküche_im_Haunstetter_Hof">Dreischwabenküche im Haunstetter Hof</string>
+
+    <!-- sightseeing list -->
+    <string name="Rathaus_und_Goldener_Saal">Rathaus und Goldener Saal</string>
+    <string name="City_Hall_and_Golden_Hall">City Hall and Golden Hall</string>
+    <string name="Fuggerei">Fuggerei</string>
+    <string name="fuggerei">Fuggerei</string>
+    <string name="Dom_St._Maria">Dom St. Maria</string>
+    <string name="The_Cathedral">The Cathedral</string>
+    <string name="Schaezlerpalais">Schaezlerpalais</string>
+    <string name="Schaezler_Palace">Schaezler Palace</string>
+    <string name="Augsburg_Puppenkiste">Augsburg Puppenkiste</string>
+    <string name="Puppet_Theatre">Puppet Theatre</string>
+    <string name="St._Anna_Kirche_und_Fuggerkapelle">St. Anna-Kirche und Fuggerkapelle</string>
+    <string name="St._Anna_church">St. Anna church</string>
+    <string name="St._Ulrich_und_Afra">St. Ulrich und Afra</string>
+    <string name="St._Ulrichs_churches">St. Ulrich’s churches</string>
+    <string name="Perlachturm">Perlachturm</string>
+    <string name="Perlach_Tower">Perlach Tower</string>
+    <string name="Synagoge">Synagoge</string>
+    <string name="The_Synagogue">The Synagogue</string>
+    <string name="Fuggerhäuser_Damenhof_Badstuben">Fuggerhäuser, Damenhof, Badstuben</string>
+    <string name="The_Fugger_City_Palace">The Fugger City Palace</string>
+</resources>
